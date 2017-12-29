@@ -1,4 +1,4 @@
-FROM centos7
+FROM ubuntu:16.04
 MAINTAINER ljm
 #安装JDK
 RUN mkdir /var/tmp/jdk
